@@ -1,3 +1,8 @@
 body{
     background-image: url(./back.jpg);
 }
+
+#body{
+    width: 1000px;
+    text-align: center;
+}
