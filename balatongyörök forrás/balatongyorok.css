@@ -9,11 +9,29 @@ body{
 
 #header{
     width: min-content 650px, max-content 1000px;
-    background-image: url(./panorama.jpg);
-    
+    background: url(./panorama.jpg);
 }
 
-#img{
+article{
+    width: 450px;
+    background-color: #5B9CEA;
+}
+
+section{
+    width: 450px;
+    background-color: #5B9CEA;
+}
+
+table, td, tr {
+    border: 1px solid;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+/* #img{
     width: 40px;
     height: 40px;
-}
+} */
